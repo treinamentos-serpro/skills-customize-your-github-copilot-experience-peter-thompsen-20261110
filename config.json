@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "linear-search",
+      "title": "Busca Linear em Python",
+      "description": "Practice linear search with Python lists, loops, and return values.",
+      "path": "assignments/linear-search",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
