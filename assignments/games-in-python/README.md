@@ -1,18 +1,18 @@
 
-# 📘 Assignment: Hangman in Python
+# 📘 Atividade: Jogo da Forca em Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Crie um jogo da Forca em Python para praticar manipulação de strings, entrada de dados, loops, condicionais e seleção aleatória.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar a mecânica do jogo
 
-#### Description
+#### Descrição
 Selecione uma palavra aleatória de uma lista predefinida e permita que o jogador tente adivinhá-la, uma letra por vez.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Exibir o progresso da palavra com letras adivinhadas e espaços ocultos, como `_ _ _`.
@@ -21,10 +21,10 @@ O programa concluído deve:
 
 ### 🛠️ Encerrar a partida e informar o resultado
 
-#### Description
+#### Descrição
 Finalize a partida quando o jogador adivinhar a palavra ou ficar sem tentativas.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Encerrar a partida quando a palavra for adivinhada ou as tentativas incorretas acabarem.
